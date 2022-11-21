@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidImageGalery</string>
+    <string name="downloading">Descargando</string>
+    <string name="finished">Terminado</string>
+    <string name="search_error">Error, Busqueda no encontrada</string>
+</resources>

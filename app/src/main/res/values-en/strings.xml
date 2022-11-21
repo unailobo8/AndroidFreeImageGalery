@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidImageGalery</string>
+    <string name="downloading">Donwnloading</string>
+    <string name="finished">Finished</string>
+    <string name="search_error">Error, Search not found</string>
+</resources>
